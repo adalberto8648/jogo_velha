@@ -26,10 +26,6 @@ def criar_tabuleiro():
             botao.grid(row=linha, column=coluna, padx=5, pady=5)
 criar_tabuleiro()
 
-
-
-
-
 #inicia o loop da najela
 janela.mainloop()
 
